@@ -22,7 +22,7 @@ export default function TabLayout() {
           backgroundColor: colorScheme === 'dark' ? '#1a1a1e' : '#fff',
           borderRadius: 20,
           position: 'absolute',
-            height: 70,
+          height: 70,
           paddingTop: 2,
           shadowColor: '#000',
           shadowOffset: { width: 0, height: 3 },

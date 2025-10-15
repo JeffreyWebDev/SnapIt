@@ -36,8 +36,8 @@ const styles = StyleSheet.create({
     marginVertical: 6,
     borderRadius: 10,
     shadowColor: '#000',
-    shadowOpacity: 0.05,
-    shadowRadius: 5,
+    shadowOpacity: 0.1,
+    shadowRadius: 9,
     elevation: 2,
   },
   mealImage: {
